@@ -16,7 +16,7 @@ public:
         for(int i = 0 ; i< n ; i++){
             for(int prev = 0 ; prev < i ; prev++){
                 int n1 = nums[i] , n2 = nums[prev] ; 
-                if(n1 % n2 == 0 || n2 % n1 == 0){
+                if(n1 % n2 == 0 ){
                     // maxi[i] = max(maxi[i] , maxi[prev]) ;
                     if(dp[i] < 1+ dp[prev]){
                         hash[i] = prev ;
