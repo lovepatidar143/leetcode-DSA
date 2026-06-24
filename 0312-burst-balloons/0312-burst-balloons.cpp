@@ -2,7 +2,7 @@ class Solution {
 public:
     int solve(int i , int j , vector <int>&arr , vector<vector<int>> &dp){
         if(i>j) return 0 ; 
-        if(i == j) return arr[i]*arr[i-1]*arr[i+1]  ; 
+        // if(i == j) return arr[i]*arr[i-1]*arr[i+1]  ; 
         if(dp[i][j] != -1) return dp[i][j] ; 
         int coins = -1e9 ; 
         for(int  k= i ; k <= j; k++){
