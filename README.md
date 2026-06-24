@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0368-largest-divisible-subset) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
