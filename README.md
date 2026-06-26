@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,8 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
