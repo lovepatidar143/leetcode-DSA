@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0368-largest-divisible-subset) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -92,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
