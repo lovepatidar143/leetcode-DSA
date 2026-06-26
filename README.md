@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
