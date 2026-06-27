@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0038-count-and-say) |
 | [0132-palindrome-partitioning-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
