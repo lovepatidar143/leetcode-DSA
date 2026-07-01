@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,4 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0337-house-robber-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
