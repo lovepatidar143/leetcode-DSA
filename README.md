@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Greedy
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0368-largest-divisible-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
