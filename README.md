@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0337-house-robber-iii) |
+| [1192-critical-connections-in-a-network](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
