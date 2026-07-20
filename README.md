@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0778-swim-in-rising-water) |
 | [1043-partition-array-for-maximum-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0778-swim-in-rising-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0778-swim-in-rising-water) |
+| [1260-shift-2d-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Biconnected Component
 |  |
