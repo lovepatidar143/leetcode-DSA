@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0778-swim-in-rising-water) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Math
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Design
 |  |
 | ------- |
