@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Indexed Tree
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1856-maximum-subarray-min-product) |
+| [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
