@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
 |  |
 | ------- |
