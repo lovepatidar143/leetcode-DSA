@@ -16,7 +16,7 @@ public:
         for(int i = 0 ; i< 2048 ; i++){
             if(dp[i] == 0) continue ; 
             for(int j = 0 ; j < n ; j++){
-                dp[i] = 0 ; 
+                // dp[i] = 0 ; 
                 vp[i ^ nums[j]] = 1 ; 
             }
         }
