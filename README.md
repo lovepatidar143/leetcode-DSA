@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -355,14 +357,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
