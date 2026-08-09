@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-grid-illumination](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1043-partition-array-for-maximum-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1222-queens-that-can-attack-the-king](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1856-maximum-subarray-min-product) |
 | [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
@@ -365,18 +369,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Nim Game
