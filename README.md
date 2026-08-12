@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
