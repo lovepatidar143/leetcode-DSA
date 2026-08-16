@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1856-maximum-subarray-min-product](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1856-maximum-subarray-min-product) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1642-furthest-building-you-can-reach](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -409,10 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
