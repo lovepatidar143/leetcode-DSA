@@ -1,41 +1,42 @@
 class Solution {
-private:
-    vector<vector<int>> f;
-
 public:
-    int dfs(const vector<int>& stoneValue, int left, int right) {
-        if (left == right) {
-            return 0;
-        }
-        if (f[left][right]) {
-            return f[left][right];
-        }
+    int solve(int start , int end , vector<int> &pref , vector<vector<int>> &dp ){
 
-        int sum = accumulate(stoneValue.begin() + left,
-                             stoneValue.begin() + right + 1, 0);
-        int suml = 0;
-        for (int i = left; i < right; ++i) {
-            suml += stoneValue[i];
-            int sumr = sum - suml;
-            if (suml < sumr) {
-                f[left][right] =
-                    max(f[left][right], dfs(stoneValue, left, i) + suml);
-            } else if (suml > sumr) {
-                f[left][right] =
-                    max(f[left][right], dfs(stoneValue, i + 1, right) + sumr);
-            } else {
-                f[left][right] =
-                    max(f[left][right], max(dfs(stoneValue, left, i),
-                                            dfs(stoneValue, i + 1, right)) +
-                                            suml);
+        if(end <= start) return 0 ; 
+        if(dp[start][end] != -1) return dp[start][end] ; 
+
+        int sol = 0 ; 
+        for(int i = start ; i < end;  i++){
+            int left = pref[i] ; 
+            if(start != 0) left = pref[i] - pref[start -1] ; 
+            int right = pref[end] - pref[i] ; 
+            int ans ; 
+            if(left > right){
+                ans =  right + solve(i +1 , end , pref , dp ) ; 
             }
+            else if(right > left){
+                ans = left + solve(start , i , pref, dp ) ; 
+            }
+            else {
+                ans = max(
+                    right + solve(i +1 , end , pref , dp ),
+                    left + solve(start , i , pref , dp ) 
+                );
+            }
+            sol = max(sol , ans)  ; 
         }
-        return f[left][right];
-    }
+        
 
+        return dp[start][end] = sol ; 
+    }
     int stoneGameV(vector<int>& stoneValue) {
-        int n = stoneValue.size();
-        f.assign(n, vector<int>(n));
-        return dfs(stoneValue, 0, n - 1);
+        int n   = stoneValue.size() ; 
+        vector<int> pref(n , 0) ; 
+        pref[0] = stoneValue[0] ; 
+        for(int i =1 ; i< n ; i++){
+            pref[i] = pref[i-1] + stoneValue[i] ; 
+        }
+        vector<vector<int>> dp(n , vector<int> (n , -1)) ; 
+        return solve(0 , n-1 , pref , dp) ;
     }
 };
