@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0957-prison-cells-after-n-days](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1001-grid-illumination](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1043-partition-array-for-maximum-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0877-stone-game) |
+| [0957-prison-cells-after-n-days](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0208-implement-trie-prefix-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0957-prison-cells-after-n-days](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1001-grid-illumination](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1001-grid-illumination) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0957-prison-cells-after-n-days](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0957-prison-cells-after-n-days) |
 | [1310-xor-queries-of-a-subarray](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0292-nim-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
