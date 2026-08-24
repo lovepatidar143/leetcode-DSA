@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1856-maximum-subarray-min-product](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1856-maximum-subarray-min-product) |
+| [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3620-network-recovery-pathways) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1856-maximum-subarray-min-product) |
+| [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -433,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -441,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
