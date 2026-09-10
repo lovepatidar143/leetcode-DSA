@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0337-house-robber-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3310-remove-methods-from-project) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0337-house-robber-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
