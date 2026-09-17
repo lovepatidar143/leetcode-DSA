@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1340-jump-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1563-stone-game-v) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1340-jump-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1563-stone-game-v) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0778-swim-in-rising-water) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set
