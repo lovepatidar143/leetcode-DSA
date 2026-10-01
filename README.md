@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
