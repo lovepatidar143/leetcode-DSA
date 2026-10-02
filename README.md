@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0115-distinct-subsequences) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -547,8 +549,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
