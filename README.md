@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0778-swim-in-rising-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -572,4 +574,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
