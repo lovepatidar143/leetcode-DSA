@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1927-sum-game) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-number-of-wonderful-substrings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1915-number-of-wonderful-substrings) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1856-maximum-subarray-min-product](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1856-maximum-subarray-min-product) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
