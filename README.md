@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1642-furthest-building-you-can-reach](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2029-stone-game-ix) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0337-house-robber-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -421,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0337-house-robber-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -440,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0778-swim-in-rising-water) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/lovepatidar143/leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -503,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
@@ -596,4 +604,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
