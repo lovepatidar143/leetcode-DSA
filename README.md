@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0085-maximal-rectangle) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lovepatidar143/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [1048-longest-string-chain](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1048-longest-string-chain) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/lovepatidar143/leetcode-DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
